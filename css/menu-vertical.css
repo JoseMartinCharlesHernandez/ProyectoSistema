@@ -1,0 +1,46 @@
+.sticky-container{
+    padding:0px;
+    margin:0px;
+    position:fixed;
+    right:-130px;
+    top:280px;
+    width:168px;
+    z-index: 1100;
+    border-color: black;
+    border-radius: 12px;
+}
+.sticky li{
+    list-style-type:none;
+    background-color:#005cb9;
+    color:white;
+    height:43px;
+    padding:0px;
+    margin:0px 0px 4px 0px;
+    -webkit-transition:all 0.25s ease-in-out;
+    -moz-transition:all 0.25s ease-in-out;
+    -o-transition:all 0.25s ease-in-out;
+    transition:all 0.25s ease-in-out;
+    cursor:pointer;
+}
+.sticky li:hover{
+    margin-left:-120px;
+}
+.sticky li img{
+    float:left;
+    margin:5px 4px;
+    margin-right:5px;
+}
+.sticky li p{
+    padding-top:5px;
+    margin:0px;
+    line-height:16px;
+    font-size:13px;
+}
+.sticky li p a{
+    text-decoration:none;
+    color:white;
+}
+.sticky li p a:hover{
+    text-decoration:underline;
+
+}

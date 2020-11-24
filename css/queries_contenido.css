@@ -1,0 +1,748 @@
+
+/*---------------------------------------media queries 400 width----------------------------------------------------*/
+
+@media (min-width: 400px) and (max-width: 450px){
+
+
+  	.sticky-container{
+		display: none;
+	}
+
+		#logo-tam{
+		width: 110px;
+		height:110px;
+	}
+
+
+	.titulo{
+		margin-left: 3%;
+		margin-top: 6%;
+		width: 50%;
+		text-align: center;
+		font-size: 13px;
+	}
+
+	.img-slider{
+		display: none;
+	}
+/*--------------------------------seccion de conocenos-----------------------------------------*/
+	.about-us{
+		margin-left: 7%;
+	}
+	.about-us>p{
+		width: 90%;
+		font-size: 19px;
+	}
+
+	#bar-style{
+		margin-left: -4.3%;
+		margin-top: -.4%;
+	}
+
+
+
+	.btn_more{
+		width: 50%;
+		margin-top: -2%;
+		margin-left: 22%;
+	}
+
+/*------------------------------seccion de contacto-----------------------------------------------*/
+
+	.lbl_resp1{
+		display: block;
+		margin-top: 15%;
+		margin-left: 6.5%;
+		color: black;
+		font-weight: bold;
+		position: absolute;
+	}
+
+	.lbl_resp2{
+		display: block;
+		margin-left: 9.9%;
+		margin-top: 21.3%;
+		color: black;
+		font-weight: bold;
+		position: absolute;
+	}
+
+	.second-content{
+		height: 230px;
+	}
+
+	#logo_telefono{
+		display: none;
+	}
+
+	#logo_correo{
+		display: none;
+	}
+
+	.style-contact{
+		margin-left: 26.3%;
+		margin-top: 14.9%;
+		font-size: 17px;
+		color: black;
+	}
+
+	.style-contact2{
+		margin-left: 26.3%;
+		margin-top: 21.8%;
+		color: black;
+		font-weight: bold;
+		font-size: 15.1px;
+	}
+
+	.lbl_contact{
+		font-size: 36px;
+		margin-top: 2%;
+		margin-left: 16%;
+	}
+
+	.btn_contact{
+		margin-left: 27%;
+		margin-top: 34%;
+		width: 50%;
+	}
+
+/*------------------------------------seccion donacion-------------------------------------------*/
+
+#logo_corazon{
+	width: 280px;
+	height: 140px;
+	margin-left: -2.6%;
+	margin-top: 20%;
+}
+
+.lbl_donacion{
+	color: red;
+	width: 80%;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	margin-left: -10%;
+}
+
+.btn_donar{
+	margin-top: 65%;
+	margin-left: 15.7%;
+	font-size: 13px;
+	position: absolute;
+	height: 60px;
+	width: 34%;
+}
+
+/*-----------------------------------------------------seccion de mapa---------------------------------------------*/
+
+	.fourth-content{
+		height: 630px;
+	}
+
+	.mapa{
+		width: 91%;
+		height: 330px;
+		margin-left: 6%;
+	}
+
+	.btn_contact2{
+		margin-top: 110%;
+		margin-left: -30%;
+		width: 21%;
+		font-size: 13px;
+		height: 46px;
+	}
+
+	.info_ubicacion{
+		margin-left: 5%;
+		margin-top: 1%;
+	}
+	.info_ubicacion>label{
+		font-size: 12px;
+		margin-left: 2%;
+	}
+
+	#bar-style2{
+		display: none;
+	}
+	.lbl_ubicacion{
+		display: none;
+	}
+
+
+	
+}
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------------------------------------media queries 651 width----------------------------------------------------*/
+
+@media (min-width: 451px) and (max-width: 500px){
+
+  	.sticky-container{
+		display: none;
+	}
+
+		#logo-tam{
+		width: 110px;
+		height:110px;
+	}
+
+	.titulo{
+		margin-left: 11%;
+		margin-top: 4%;
+		width: 48%;
+		text-align: center;
+		font-size: 15px;
+	}
+
+	.img-slider{
+		display: none;
+	}
+/*--------------------------------seccion de conocenos-----------------------------------------*/
+	.about-us{
+		margin-left: 9%;
+	}
+	.about-us>p{
+		width: 89%;
+		font-size: 19px;
+	}
+	#bar-style{
+		margin-left: -4.3%;
+		margin-top: -.4%;
+	}
+
+
+	.btn_more{
+		width: 53.3%;
+		margin-left: 19%;
+	}
+
+/*------------------------------seccion de contacto-----------------------------------------------*/
+
+	.lbl_resp1{
+		display: block;
+		margin-top: 15%;
+		margin-left: 6%;
+		color: black;
+		font-weight: bold;
+		position: absolute;
+	}
+
+	.lbl_resp2{
+		display: block;
+		margin-left: 6.5%;
+		margin-top: 21.6%;
+		color: black;
+		font-weight: bold;
+		position: absolute;
+	}
+
+	.second-content{
+		height: 230px;
+	}
+
+	#logo_telefono{
+		display: none;
+	}
+
+	#logo_correo{
+		display: none;
+	}
+
+	.style-contact{
+		margin-left: 23.3%;
+		margin-top: 14.9%;
+		font-size: 17px;
+		color: black;
+	}
+
+	.style-contact2{
+		margin-left: 21.3%;
+		margin-top: 21.8%;
+		color: black;
+		font-weight: bold;
+		font-size: 15.1px;
+	}
+
+	.lbl_contact{
+		font-size: 36px;
+		margin-top: 2%;
+		margin-left: 21%;
+	}
+
+	.btn_contact{
+		margin-left: 27%;
+		margin-top: 34%;
+		width: 50%;
+	}
+
+/*------------------------------------seccion donacion-------------------------------------------*/
+
+#logo_corazon{
+	width: 280px;
+	height: 145px;
+	margin-left: 2.6%;
+	margin-top: 20%;
+}
+
+.lbl_donacion{
+	color: red;
+	width: 80%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-left: -8%;
+}
+
+.btn_donar{
+	margin-top: 60%;
+	margin-left: 14%;
+	font-size: 13px;
+	position: absolute;
+	height: 50px;
+	width: 40%;
+}
+
+/*-----------------------------------------------------seccion de mapa---------------------------------------------*/
+
+	.fourth-content{
+		height: 630px;
+	}
+
+	.mapa{
+		width: 89%;
+		height: 330px;
+		margin-left: 6%;
+	}
+
+	.btn_contact2{
+		margin-top: 95%;
+		margin-left: -30%;
+		width: 21%;
+		font-size: 13px;
+		height: 46px;
+	}
+
+	.info_ubicacion{
+		margin-left: 5%;
+		margin-top: 1%;
+	}
+	.info_ubicacion>label{
+		font-size: 12px;
+		margin-left: 2%;
+	}
+
+	#bar-style2{
+		display: none;
+	}
+	.lbl_ubicacion{
+		display: none;
+	}
+
+
+	
+}
+/*------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------------------------------------media queries 501 width----------------------------------------------------*/
+
+@media (min-width: 501px) and (max-width: 550px){
+	.img-slider{
+		display: none;
+	}
+
+  	.sticky-container{
+		display: none;
+	}
+
+		#logo-tam{
+		width: 110px;
+		height:110px;
+	}
+	.titulo{
+		margin-left:11%;
+		margin-top: 3%;
+		width: 50%;
+		text-align: center;
+		font-size: 17px;
+	}
+/*--------------------------------seccion de conocenos-----------------------------------------*/
+	.about-us{
+		margin-left: 4%;
+	}
+	.about-us>p{
+		width: 95%;
+		font-size: 19px;
+	}
+
+	#bar-style{
+		margin-left: -4.3%;
+		margin-top: -.4%;
+	}
+
+
+	.btn_more{
+		width: 50%;
+		margin-left: 25%;
+	}
+
+/*------------------------------seccion de contacto-----------------------------------------------*/
+
+	.lbl_resp1{
+		display: block;
+		margin-top: 15%;
+		margin-left: 3.5%;
+		color: black;
+		font-weight: bold;
+		position: absolute;
+	}
+
+	.lbl_resp2{
+		display: block;
+		margin-left: 6.5%;
+		margin-top: 21.6%;
+		color: black;
+		font-weight: bold;
+		position: absolute;
+	}
+
+	.second-content{
+		height: 230px;
+	}
+
+	#logo_telefono{
+		display: none;
+	}
+
+	#logo_correo{
+		display: none;
+	}
+
+	.style-contact{
+		margin-left: 20.3%;
+		margin-top: 14.9%;
+		font-size: 17px;
+		color: black;
+	}
+
+	.style-contact2{
+		margin-left: 20.3%;
+		margin-top: 21.8%;
+		color: black;
+		font-weight: bold;
+		font-size: 15.1px;
+	}
+
+	.lbl_contact{
+		font-size: 36px;
+		margin-top: 2%;
+		margin-left: 26%;
+	}
+
+	.btn_contact{
+		margin-left: 28%;
+		margin-top: 34%;
+		width: 48%;
+	}
+
+/*------------------------------------seccion donacion-------------------------------------------*/
+
+#logo_corazon{
+	width: 280px;
+	height: 145px;
+	margin-left: 4.6%;
+	margin-top: 20%;
+}
+
+.lbl_donacion{
+	color: red;
+	width: 90%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-left: -13%;
+}
+
+.btn_donar{
+	margin-top: 56%;
+	margin-left: 14%;
+	font-size: 17px;
+	position: absolute;
+	height: 50px;
+	width: 40%;
+}
+
+/*-----------------------------------------------------seccion de mapa---------------------------------------------*/
+
+	.fourth-content{
+		height: 630px;
+	}
+
+	.mapa{
+		width: 89%;
+		height: 330px;
+		margin-left: 6%;
+	}
+
+	.btn_contact2{
+		margin-top: 90%;
+		margin-left: -30%;
+		width: 21%;
+		font-size: 13px;
+		height: 46px;
+	}
+
+	.info_ubicacion{
+		margin-left: 5%;
+		margin-top: 1%;
+	}
+	.info_ubicacion>label{
+		font-size: 12px;
+		margin-left: 2%;
+	}
+
+	#bar-style2{
+		display: none;
+	}
+	.lbl_ubicacion{
+		display: none;
+	}
+
+
+	
+}
+/*------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------------------------------------media queries 551 width----------------------------------------------------*/
+
+@media (min-width: 551px) and (max-width: 600px){
+
+
+  	.sticky-container{
+		display: none;
+	}
+
+		#logo-tam{
+		width: 110px;
+		height:110px;
+	}
+
+	.titulo{
+		margin-left:4%;
+		margin-top: 5%;
+		width: 60%;
+		text-align: center;
+		font-size: 16px;
+	}
+
+	.img-slider{
+		display: none;
+	}
+/*--------------------------------seccion de conocenos-----------------------------------------*/
+	.about-us{
+		margin-left: 4%;
+	}
+	.about-us>p{
+		width: 95%;
+		font-size: 19px;
+	}
+
+	#bar-style{
+		margin-left: -4.3%;
+		margin-top: -.4%;
+	}
+
+
+
+	.btn_more{
+		width: 41%;
+		margin-left: 27.5%;
+	}
+
+/*------------------------------seccion de contacto-----------------------------------------------*/
+
+	.lbl_resp1{
+		display: block;
+		font-size: 20px;
+		margin-top: 15%;
+		margin-left: 1.5%;
+		color: black;
+		font-weight: bold;
+		position: absolute;
+	}
+
+	.lbl_resp2{
+		display: block;
+		margin-left: 1.5%;
+		font-size: 20px;
+		margin-top: 21.6%;
+		color: black;
+		font-weight: bold;
+		position: absolute;
+	}
+
+	.second-content{
+		height: 230px;
+	}
+
+	#logo_telefono{
+		display: none;
+	}
+
+	#logo_correo{
+		display: none;
+	}
+
+	.style-contact{
+		margin-left: 20.3%;
+		margin-top: 14.9%;
+		font-size: 20px;
+		color: black;
+	}
+
+	.style-contact2{
+		margin-left: 18.3%;
+		margin-top: 22%;
+		color: black;
+		font-weight: bold;
+		font-size: 18.6px;
+	}
+
+	.lbl_contact{
+		font-size: 36px;
+		margin-top: 2%;
+		margin-left: 26%;
+	}
+
+	.btn_contact{
+		margin-left: 30%;
+		margin-top: 29%;
+		width: 40%;
+	}
+
+/*------------------------------------seccion donacion-------------------------------------------*/
+
+#logo_corazon{
+	width: 320px;
+	height: 170px;
+	margin-left: 3.6%;
+	margin-top: 15%;
+}
+
+.lbl_donacion{
+	color: red;
+	width: 90%;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: -13%;
+}
+
+.btn_donar{
+	margin-top: 50%;
+	margin-left: 13.5%;
+	font-size: 13px;
+	position: absolute;
+	height: 50px;
+	width: 40%;
+}
+
+/*-----------------------------------------------------seccion de mapa---------------------------------------------*/
+
+	.fourth-content{
+		height: 630px;
+	}
+
+	.mapa{
+		width: 89%;
+		height: 330px;
+		margin-left: 6%;
+	}
+
+	.btn_contact2{
+		margin-top: 80%;
+		margin-left: -30%;
+		width: 21%;
+		font-size: 13px;
+		height: 46px;
+	}
+
+	.info_ubicacion{
+		margin-left: 5%;
+		margin-top: 1%;
+	}
+	.info_ubicacion>label{
+		font-size: 12px;
+		margin-left: 2%;
+	}
+
+	#bar-style2{
+		display: none;
+	}
+	.lbl_ubicacion{
+		display: none;
+	}
+
+
+	
+}
+/*---------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+

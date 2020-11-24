@@ -1,0 +1,24 @@
+.grafic_container1{
+	width: 45%;
+	position: absolute;
+	height: 400px;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+	margin-left: 2%;
+	margin-top: 1%;
+}
+
+.grafic_container1>label,.grafic_container2>label{
+	text-align: center;
+	width: 100%;
+	font-weight: bold;
+}
+
+.grafic_container2{
+	width: 45%;
+	position: absolute;
+	height: 400px;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+	margin-left: 52%;
+	margin-top: 1%;
+}
+

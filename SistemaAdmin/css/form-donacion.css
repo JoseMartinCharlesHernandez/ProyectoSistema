@@ -1,0 +1,35 @@
+.cont_form{
+	margin-left: .5%;
+}
+
+input, select {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 85%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.h1Titulo
+{
+  font-size: 34px;
+  margin-top: -2%;
+  margin-left: 23%;
+}
+
+
+.main-container-forms{
+  width: 70%;
+  position: fixed;
+  margin-top:6%;
+  height: 700px;
+  margin-left: 26%;
+}
+
+form{
+  margin-left: 2.5%;
+}

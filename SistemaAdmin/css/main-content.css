@@ -1,0 +1,197 @@
+.main-container{
+	width: 81%;
+	margin-top:4%;
+	position: absolute;
+	margin-left: 16%;
+}
+
+.btn-primary:hover,.btn-danger:hover{
+    box-shadow:  0 5px 5px 0 rgba(0, 0, 0, 0.40);
+}
+
+.main-container-forms{
+	width: 70%;
+	position: fixed;
+	margin-top:6%;
+	height: 700px;
+	margin-left: 22%;
+}
+
+
+#buscador:hover,#buscador2:hover,#buscador3:hover,#buscador4:hover,#buscador4:hover,#buscador_donaciones:hover{
+  box-shadow:  0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#buscador{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 21%;
+  border-radius: 8px;
+  height: 49px;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  margin-top: -2%;
+  box-sizing: border-box;
+  position: fixed;
+  display: inline-block;
+  font-size: 14px;
+}
+
+#buscador2{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 17%;
+  height: 49px;
+  border: 0;
+  border-radius: 8px;
+  margin: 0 0 15px;
+  margin-left: 21.3%;
+  margin-top: -2%;
+  padding: 15px;
+  box-sizing: border-box;
+  display: inline-block;
+    position: fixed;
+  font-size: 14px;
+}
+#buscador3{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 14%;
+  position: fixed;
+  display: inline-block;
+  height: 49px;
+  border: 0;
+  border-radius: 8px;
+  margin: 0 0 15px;
+  padding: 15px;
+  margin-left: 38.7%;
+  margin-top: -2%;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+#buscador4{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 14%;
+  position: fixed;
+  display: inline-block;
+  height: 49px;
+  border: 0;
+  border-radius: 8px;
+  margin: 0 0 15px;
+  padding: 15px;
+  margin-left: 53%;
+  margin-top: -2%;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+#buscador5{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 14%;
+  position: fixed;
+  display: inline-block;
+  height: 49px;
+  border: 0;
+  border-radius: 8px;
+  margin: 0 0 15px;
+  padding: 15px;
+  margin-left: 67.3%;
+  margin-top: -2%;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+
+#btn_filtro_historial{
+  position: fixed; 
+  display: inline-block; 
+  margin-left: 18%;
+  margin-top: -5.46%;
+}
+
+
+#buscador_donaciones{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 50%;
+  height: 49px;
+  border: 0;
+  border-radius: 8px;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+
+.content-search{
+  display: inline-block;
+  margin-top: .6%;
+  width: 100%;
+}
+
+#form_busc1{
+  display: inline-block;
+  width: 45%;
+}
+
+#input_nombre,#input_a_paterno,#input_a_materno{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 30%;
+  height: 52px;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  box-shadow:  0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  font-size: 18px;
+  font-weight: 530;
+}
+#input_a_paterno,#input_a_materno{
+  margin-left: 1%;
+}
+
+#input_sangre,#fecha_donacion,#hora_donacion,#select_donacion,#select_sangre,#input_fechaInicio,#input_fechaFin{
+  font-family: "Roboto", sans-serif;
+  font-weight: 530;
+  outline: 0;
+  background: #f2f2f2;
+  width: 67%;
+  height: 52px;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 18px;
+  box-shadow:  0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#select_donacionpdf,#select_sangrepdf,#input_fechaIniciopdf,#input_fechaFinpdf{
+  font-family: "Roboto", sans-serif;
+  font-weight: 530;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  height: 52px;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 18px;
+  box-shadow:  0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#select_sangre:hover,#input_sangre:hover,#fecha_donacion:hover,#hora_donacion:hover,#select_donacion:hover,#input_nombre:hover,:hover#input_a_paterno:hover,#input_a_materno:hover,#input_fechaInicio:hover,#input_fechaFin:hover{
+  box-shadow:  0 10px 8px 0 rgba(0, 0, 0, 0.24);
+}

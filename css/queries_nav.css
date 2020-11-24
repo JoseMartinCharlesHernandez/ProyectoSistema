@@ -1,0 +1,213 @@
+/*------------------------------------------------queries  400--------------------------------------------------*/
+
+@media (min-width: 400px) and (max-width: 450px){
+
+ .cont-nav{
+   display: none;
+  }
+
+  #btn_menu_responsivo{
+    display:block;
+    text-align: center;
+    vertical-align: middle;
+    width: 15%;
+    height: 9%;
+    margin-top: -16.2%;
+    margin-left: 83%;
+    position: absolute;
+  }
+
+  .responsive_content{
+    width: 100%;
+    background-color:#005cb9;
+  }
+
+
+  .responsive_content>a{
+    color: white;
+    width: 100%;
+  }
+
+  .dropbtn{
+    background-color: #005cb9;
+    border:none;
+    height: 50px;
+    color: white;
+    width: 100%;
+  }
+
+  .dropdown-content{
+    width: 100%;
+     background-color: #005cb9;
+    border:none;
+  }
+
+
+
+
+
+
+
+
+}
+
+/*------------------------------------------------queries 451--------------------------------------------------*/
+
+@media (min-width: 451px) and (max-width: 500px){
+  .cont-nav{
+   display: none;
+  }
+
+  #btn_menu_responsivo{
+    display:block;
+    text-align: center;
+    vertical-align: middle;
+    width: 15%;
+    height: 10%;
+    margin-top: -14.2%;
+    margin-left: 83%;
+    position: absolute;
+  }
+
+  .responsive_content{
+    width: 100%;
+    background-color:#005cb9;
+  }
+
+
+  .responsive_content>a{
+    color: white;
+    width: 100%;
+  }
+
+  .dropbtn{
+    background-color: #005cb9;
+    border:none;
+    height: 50px;
+    color: white;
+    width: 100%;
+  }
+
+  .dropdown-content{
+    width: 100%;
+     background-color: #005cb9;
+    border:none;
+  }
+}
+
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------------------queries 501--------------------------------------------------*/
+
+@media (min-width: 501px) and (max-width: 550px){
+  .cont-nav{
+   display: none;
+  }
+
+  #btn_menu_responsivo{
+    display:block;
+    text-align: center;
+    vertical-align: middle;
+    width: 15%;
+    height: 10%;
+    margin-top: -13.2%;
+    margin-left: 83%;
+    position: absolute;
+  }
+
+  .responsive_content{
+    width: 100%;
+    background-color:#005cb9;
+  }
+
+
+  .responsive_content>a{
+    color: white;
+    width: 100%;
+  }
+
+  .dropbtn{
+    background-color: #005cb9;
+    border:none;
+    height: 50px;
+    color: white;
+    width: 100%;
+  }
+
+  .dropdown-content{
+    width: 100%;
+     background-color: #005cb9;
+    border:none;
+  }
+
+}
+
+
+
+
+
+
+
+
+/*------------------------------------------------queries 551--------------------------------------------------*/
+
+
+@media (min-width: 551px) and (max-width: 600px){
+  .cont-nav{
+   display: none;
+  }
+
+  #btn_menu_responsivo{
+    display:block;
+    text-align: center;
+    vertical-align: middle;
+    width: 15%;
+    height: 10%;
+    margin-top: -11.7%;
+    margin-left: 83%;
+    position: absolute;
+  }
+
+  .responsive_content{
+    width: 100%;
+    background-color:#005cb9;
+  }
+
+
+  .responsive_content>a{
+    color: white;
+    width: 100%;
+  }
+
+  .dropbtn{
+    background-color: #005cb9;
+    border:none;
+    height: 50px;
+    color: white;
+    width: 100%;
+  }
+
+  .dropdown-content{
+    width: 100%;
+     background-color: #005cb9;
+    border:none;
+  }
+}

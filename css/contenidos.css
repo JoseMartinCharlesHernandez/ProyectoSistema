@@ -1,0 +1,336 @@
+body{
+	font-size: 17px;
+	font-family: sans-serif;
+}
+h2{
+	display: inline-block;
+	margin-left: 1.5%;
+	margin-top: .6%;
+	color: #555;
+}
+
+.titulo{
+	font-size:32px;
+	font-weight: bold;
+	position:absolute;
+	margin-top:3.4%;
+}
+
+h3{
+	font-weight: bold;
+	display: inline-block;
+	margin-left: 1.5%;
+	margin-top: .6%;
+	color: #555;
+}
+
+p{
+	text-align: justify;
+	margin-top: 2%;
+	margin-left: 1%;
+}
+.cont-View-Hacemos>li{
+	text-align: justify;
+	margin-left: 5%;
+	margin-top: 1%;
+}.cont-View-Operacion>li{
+	text-align: justify;
+	margin-left: 5%;
+	list-style: none;
+	margin-top: 1%;
+}.cont-View-Operacion>li>{
+	text-decoration: none;
+}
+
+
+
+.cont-View-RegulacionJuridica>li{
+	text-align: justify;
+	margin-left: 5%;
+	margin-top: 1%;
+}
+.cont-View-Valores>li{
+	text-align: justify;
+	margin-left: 5%;
+	margin-top: 1%;
+}
+
+
+
+.cont-View-Objetivos>li{
+	text-align: justify;
+	margin-left: 5%;
+	margin-top: 1%;
+}
+
+
+
+
+.cont-View-ImportanciaDonacion>li{
+	text-align: justify;
+	margin-left: 5%;
+	margin-top: 1%;
+}.cont-View-ImportanciaDonacion-sublist>li{
+	text-align: justify;
+	margin-left: 6.7%;
+	margin-top: 1%;
+}
+
+
+.cont-View-Requisitos>li{
+	text-align: justify;
+	margin-left: 6.7%;
+	margin-top: 1%;
+}
+
+/*estilos del contenedor principal*/
+#contenedor{
+	margin-left: 10%;
+	width: 60%;
+	margin-top: 3%;
+}
+
+#bar-style{
+	width: 30px;
+	height:40px;
+	margin-left: -.4%;
+	margin-top: -.3%;
+	position: absolute;
+}
+
+#bar2-style{
+	width: 30px;
+	height:76px;
+	margin-left: -.4%;
+	margin-top: -.3%;
+	position: absolute;
+}
+
+
+/*---------------------------------------about us-------------------------------------------------------------*/
+
+.about-us{
+	margin-top:3%;
+	margin-left: 15%;
+}
+
+.about-us>p{
+	width: 50%;
+	font-size: 20px;
+}
+
+.btn_more{
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+	width: 230px;
+	height: 41px;
+	color: white;
+	margin-left: 1%;
+	text-align: center;
+	font-size: 17px;
+	background-color: #286090;
+	
+}
+
+.btn_more:hover{
+ 	background-color: #337ab7;
+}
+
+
+/*-----------------------------------------------------------------------------------------------------*/
+.second-content{
+	margin-top: 2%;
+	width: 100%;
+	height: 160px;
+	background-color: #f5f5f5 ;
+}
+
+#logo_telefono{
+	margin-top: -2.6%;
+	position: absolute;
+}.style-contact{
+	position: absolute;
+	margin-left: 8.3%;
+	margin-top: 4.7%;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+#logo_correo{
+	margin-top: -3%;
+	margin-left: 26%;
+	position: absolute;
+}.style-contact2{
+	position: absolute;
+	margin-left: 34.1%;
+	margin-top: 3.8%;
+	color: white;
+	font-size: 19px;
+	font-weight: bold;
+}
+
+
+
+.lbl_contact{
+	color: grey;
+	font-size: 30px;
+	font-weight: bold;
+	position: absolute;
+	margin-left: 60%;
+	margin-top: 4%;
+}
+
+.btn_contact{
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+	width: 230px;
+	height: 41px;
+	color: white;
+	margin-left: 80%;
+	margin-top: 3.5%;
+	text-align: center;
+	font-size: 17px;
+	background-color: #286090;
+}
+
+/*---------------------------------------------------------------------------------------------------------*/
+
+
+.mitos-container>p{
+	margin-top: -.05%;
+}
+
+/*-------------------------------------------------------------------------------------------------------------*/
+
+
+
+.third-content{
+	width: 100%;
+	height: 360px;
+}
+.contenido3{
+	margin-left: 18%;
+	height: 90%;
+	width: 80%;
+}
+
+#logo_corazon{
+	margin-top: 1%;
+	margin-left: -3%;
+	position: absolute;
+}
+
+
+
+.lbl_donacion{
+	color:grey;
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	margin-left: 28%;
+	margin-top: 5.3%;
+}
+
+.btn_donar{
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+	width: 230px;
+	height: 41px;
+	color: white;
+	margin-left: 46%;
+	margin-top: 12%;
+	text-align: center;
+	font-size: 17px;
+	background-color: #286090;
+}
+
+/*----------------------------------------------------------------------------------------------*/
+
+.menu_links{
+	float: right;
+	height: 300px;
+	width: 300px;
+}
+
+.menu_links>ul{
+	z-index: 1000;
+	margin-left: 0;
+	width: 70%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	cursor: pointer;
+	position: fixed;
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+
+.fourth-content{
+	width: 100%;
+	height: 100%;
+	background-color: #f5f5f5 ;
+}
+
+
+.lbl_ubicacion{
+	color:grey;
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	margin-left: 4%;
+	margin-top: .2%;
+}
+
+.btn_contact2{
+	border:none;
+	position: absolute;
+	border-radius: 5px;
+	cursor: pointer;
+	width: 230px;
+	height: 41px;
+	color: white;
+	margin-left: 11%;
+	margin-top: 20%;
+	text-align: center;
+	font-size: 17px;
+	background-color: #286090;	
+}
+
+
+#bar-style2{
+	width: 30px;
+	height:40px;
+	margin-left: 2.5%;
+	margin-top: -.3%;
+	position: absolute;
+}
+
+
+.info_ubicacion>label{
+	font-size: 19px;
+	color:grey;
+	margin-top: 44px;
+}.info_ubicacion>label>b{
+	color: black;
+}
+
+
+.info_ubicacion{
+	position: absolute;
+	margin-top: -26.6%;
+	margin-left: 41%;
+	width: 55%;
+	height: 46%;
+}
+
+	.lbl_resp{
+		display: none;
+	}
+

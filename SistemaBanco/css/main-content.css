@@ -1,0 +1,28 @@
+.main-container{
+	width: 81%;
+	margin-top:4%;
+	position: absolute;
+	margin-left: 16%;
+}
+
+.main-container-forms{
+	width: 70%;
+	position: fixed;
+	margin-top:6%;
+	height: 700px;
+	margin-left: 18%;
+}
+
+#buscador,#select_donacion{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 50%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+  border-radius: 6px;	
+}
+

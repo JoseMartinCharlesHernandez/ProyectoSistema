@@ -1,0 +1,76 @@
+.Sidebar{
+	width: 100%;
+	height: 55px;
+	background-color: #005cb9;
+	color: white;
+	position: absolute;
+	z-index: 100;
+}
+.Sidebar>label{
+  position: absolute;
+  margin-left: 78%;
+  margin-top: .7%;
+  font-size: 22px;
+}
+
+
+
+.hoverA:hover{
+	background-color: #212121 ;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 15%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #222d32;
+  overflow-x: hidden;
+}
+.sideContent{
+	margin-top: 25%;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #b8c7ce;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 10px;}
+  .sideContent{margin-top: 34%;}
+}
+
+
+.sidenav_resp{
+  display: none;
+}
+
+.Sidebar_resp{
+  display: none;
+}
+
+.sideContent_resp{
+  display: none;
+}
+

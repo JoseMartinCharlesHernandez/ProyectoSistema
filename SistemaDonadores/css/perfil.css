@@ -1,0 +1,98 @@
+#lbl_name,#lbl_apaterno,#lbl_amaterno,#lbl_sangre,#lbl_estadoCivil{
+  margin-left: .6%;
+  font-size: 17.3px;	
+}
+#lbl_telefono,#lbl_correo,#lbl_cuentaFb,#lbl_ocupacion,#lbl_gradoEstudios{
+	font-size: 17.3px;	
+	margin-left: .6%;
+}
+
+
+.cont1>label,.cont2>label{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.cont_resp1,.cont_resp2{
+	display: none;
+	
+}
+
+
+.cont1{
+	margin-top: 2%;
+	width: 31%;	
+	display: inline-block;
+}
+
+.cont2{
+	margin-left: 2%;
+	margin-top: 3%;
+	width: 30%;
+	display: inline-block;
+}
+
+
+.picture-default{
+	background-color: grey;
+	margin-left: 56.5%;
+	margin-top: -16%;
+	width: 16%;
+	height: 36%;
+	position: fixed;
+}
+
+.picture-profile{
+	position: absolute;
+	margin-left: 67.6%;
+	width: 24%;
+	height:170px;
+	margin-top: -15%;
+}
+
+.picture-profile>img{
+	width: 100%;
+	height: 100%;
+	object-fit: scale-down;
+
+}
+
+
+#btn_foto{
+	margin-left: 73.9%;
+	margin-top: -2%;
+}
+
+#btn_foto_del{
+	margin-left: 73.2%;
+	margin-top: 0%;
+}
+
+#update_info{
+	position: fixed;
+	margin-left: 17.7%;
+	margin-top: 1%;
+}
+
+.cont_btn_borrar{
+	position: absolute;
+	opacity: 0;
+	margin-left: 7.6%;
+	margin-top: -81%;
+	width: 85%;
+	height: 85%;
+}
+
+.cont_btn_borrar:hover{
+	background-color: grey;
+	opacity: .8;
+	cursor: pointer;
+}
+
+#img_icon{
+	display:block;
+	margin:auto;
+	margin-top: 30%;
+}
+
+
